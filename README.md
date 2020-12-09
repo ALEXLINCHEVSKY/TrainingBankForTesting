@@ -5,7 +5,7 @@ This is my personal project for training and training skills in developing virtu
 Development is carried out using the TDD technique.  
 During the development process, various aspects of TDD techniques and the subtleties of some technologies will be considered.
 ## Issues of project
-+ Connecting a project to jira, almost done
++ Connecting a project to jira
 ## Developer
 Alexandr A Linchevskiy  
 © AlexLinCom Inc. 2020
